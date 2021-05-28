@@ -45,13 +45,13 @@ This function can be used in `simulation_changing_environment`. It samples a poi
 
 
 
-More detailed information is available here: http://pages.bangor.ac.uk/~mas00a/EPSRC_simulation_framework/changing_environments_stage1a.htm 
+More detailed information is available here: https://lucykuncheva.co.uk/EPSRC_simulation_framework/changing_environments_stage1a.htm
 
 -------------- 
 
 Source: Narasimhamurthy A., L.I. Kuncheva, A framework for generating data to simulate changing environments, Proc. IASTED, Artificial Intelligence and Applications, Innsbruck, Austria, 2007, 384-389.
 
-pdf available here: http://pages.bangor.ac.uk/~mas00a/papers/anlkAIA07.pdf
+pdf available here: https://lucykuncheva.co.uk/papers/anlkAIA07.pdf
 
 bibtex entry:
 @INPROCEEDINGS{Narasimhamurthy07,
